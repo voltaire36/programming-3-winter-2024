@@ -1,0 +1,89 @@
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.csproj.AssemblyReference.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.AssemblyInfo.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.deps.json
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.runtimeconfig.json
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.pdb
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\refint\DataAccessLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.pdb
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.genruntimeconfig.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\ref\DataAccessLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\appsettings.json
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.deps.json
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.runtimeconfig.json
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.pdb
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.csproj.AssemblyReference.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.AssemblyInfo.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\refint\DataAccessLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.pdb
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.genruntimeconfig.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\ref\DataAccessLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 2 April 5\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\appsettings.json
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 2 April 5\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.deps.json
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 2 April 5\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.runtimeconfig.json
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 2 April 5\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 2 April 5\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.pdb
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 2 April 5\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.csproj.AssemblyReference.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 2 April 5\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 2 April 5\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 2 April 5\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.AssemblyInfo.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 2 April 5\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 2 April 5\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 2 April 5\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\refint\DataAccessLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 2 April 5\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.pdb
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 2 April 5\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.genruntimeconfig.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 2 April 5\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\ref\DataAccessLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\appsettings.json
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.deps.json
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.runtimeconfig.json
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.pdb
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.csproj.AssemblyReference.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.AssemblyInfo.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\refint\DataAccessLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.pdb
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.genruntimeconfig.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\ref\DataAccessLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5 - Copy\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\appsettings.json
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5 - Copy\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.deps.json
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5 - Copy\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.runtimeconfig.json
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5 - Copy\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5 - Copy\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.pdb
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5 - Copy\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.csproj.AssemblyReference.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5 - Copy\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5 - Copy\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5 - Copy\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.AssemblyInfo.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5 - Copy\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5 - Copy\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5 - Copy\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\refint\DataAccessLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5 - Copy\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.pdb
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5 - Copy\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.genruntimeconfig.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - SQL server PART 3 April 5 - Copy\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\ref\DataAccessLibrary.dll
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Lab#4\301276375(rono)_Lab#4\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\appsettings.json
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Lab#4\301276375(rono)_Lab#4\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.deps.json
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Lab#4\301276375(rono)_Lab#4\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.runtimeconfig.json
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Lab#4\301276375(rono)_Lab#4\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.dll
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Lab#4\301276375(rono)_Lab#4\WPFwithEFCore\DataAccessLibrary\bin\Debug\net6.0\DataAccessLibrary.pdb
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Lab#4\301276375(rono)_Lab#4\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.csproj.AssemblyReference.cache
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Lab#4\301276375(rono)_Lab#4\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Lab#4\301276375(rono)_Lab#4\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Lab#4\301276375(rono)_Lab#4\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.AssemblyInfo.cs
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Lab#4\301276375(rono)_Lab#4\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Lab#4\301276375(rono)_Lab#4\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.dll
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Lab#4\301276375(rono)_Lab#4\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\refint\DataAccessLibrary.dll
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Lab#4\301276375(rono)_Lab#4\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.pdb
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Lab#4\301276375(rono)_Lab#4\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\DataAccessLibrary.genruntimeconfig.cache
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Lab#4\301276375(rono)_Lab#4\WPFwithEFCore\DataAccessLibrary\obj\Debug\net6.0\ref\DataAccessLibrary.dll

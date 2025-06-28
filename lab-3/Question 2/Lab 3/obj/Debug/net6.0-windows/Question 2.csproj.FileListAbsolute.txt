@@ -1,0 +1,57 @@
+C:\3 Centennial College\4th Semester\Programming 3\Question 2\Lab 3\bin\Debug\net6.0-windows\Question 2.exe
+C:\3 Centennial College\4th Semester\Programming 3\Question 2\Lab 3\bin\Debug\net6.0-windows\Question 2.deps.json
+C:\3 Centennial College\4th Semester\Programming 3\Question 2\Lab 3\bin\Debug\net6.0-windows\Question 2.runtimeconfig.json
+C:\3 Centennial College\4th Semester\Programming 3\Question 2\Lab 3\bin\Debug\net6.0-windows\Question 2.dll
+C:\3 Centennial College\4th Semester\Programming 3\Question 2\Lab 3\bin\Debug\net6.0-windows\Question 2.pdb
+C:\3 Centennial College\4th Semester\Programming 3\Question 2\Lab 3\obj\Debug\net6.0-windows\MainWindow.baml
+C:\3 Centennial College\4th Semester\Programming 3\Question 2\Lab 3\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\Question 2\Lab 3\obj\Debug\net6.0-windows\App.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2_MarkupCompile.cache
+C:\3 Centennial College\4th Semester\Programming 3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2.g.resources
+C:\3 Centennial College\4th Semester\Programming 3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 Centennial College\4th Semester\Programming 3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2.AssemblyInfoInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2.AssemblyInfo.cs
+C:\3 Centennial College\4th Semester\Programming 3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2.csproj.CoreCompileInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2.dll
+C:\3 Centennial College\4th Semester\Programming 3\Question 2\Lab 3\obj\Debug\net6.0-windows\refint\Question 2.dll
+C:\3 Centennial College\4th Semester\Programming 3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2.pdb
+C:\3 Centennial College\4th Semester\Programming 3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2.genruntimeconfig.cache
+C:\3 Centennial College\4th Semester\Programming 3\Question 2\Lab 3\obj\Debug\net6.0-windows\ref\Question 2.dll
+C:\3 Centennial College\4th Semester\Programming 3\Lab 3\Question 2\Lab 3\bin\Debug\net6.0-windows\Question 2.exe
+C:\3 Centennial College\4th Semester\Programming 3\Lab 3\Question 2\Lab 3\bin\Debug\net6.0-windows\Question 2.deps.json
+C:\3 Centennial College\4th Semester\Programming 3\Lab 3\Question 2\Lab 3\bin\Debug\net6.0-windows\Question 2.runtimeconfig.json
+C:\3 Centennial College\4th Semester\Programming 3\Lab 3\Question 2\Lab 3\bin\Debug\net6.0-windows\Question 2.dll
+C:\3 Centennial College\4th Semester\Programming 3\Lab 3\Question 2\Lab 3\bin\Debug\net6.0-windows\Question 2.pdb
+C:\3 Centennial College\4th Semester\Programming 3\Lab 3\Question 2\Lab 3\obj\Debug\net6.0-windows\MainWindow.baml
+C:\3 Centennial College\4th Semester\Programming 3\Lab 3\Question 2\Lab 3\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\Lab 3\Question 2\Lab 3\obj\Debug\net6.0-windows\App.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\Lab 3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2_MarkupCompile.cache
+C:\3 Centennial College\4th Semester\Programming 3\Lab 3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2.g.resources
+C:\3 Centennial College\4th Semester\Programming 3\Lab 3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 Centennial College\4th Semester\Programming 3\Lab 3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2.AssemblyInfoInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\Lab 3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2.AssemblyInfo.cs
+C:\3 Centennial College\4th Semester\Programming 3\Lab 3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2.csproj.CoreCompileInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\Lab 3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2.dll
+C:\3 Centennial College\4th Semester\Programming 3\Lab 3\Question 2\Lab 3\obj\Debug\net6.0-windows\refint\Question 2.dll
+C:\3 Centennial College\4th Semester\Programming 3\Lab 3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2.pdb
+C:\3 Centennial College\4th Semester\Programming 3\Lab 3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2.genruntimeconfig.cache
+C:\3 Centennial College\4th Semester\Programming 3\Lab 3\Question 2\Lab 3\obj\Debug\net6.0-windows\ref\Question 2.dll
+C:\3 Centennial College\4th Semester\Programming 3\301276375(rono)_LAB#3\Question 2\Lab 3\bin\Debug\net6.0-windows\Question 2.exe
+C:\3 Centennial College\4th Semester\Programming 3\301276375(rono)_LAB#3\Question 2\Lab 3\bin\Debug\net6.0-windows\Question 2.deps.json
+C:\3 Centennial College\4th Semester\Programming 3\301276375(rono)_LAB#3\Question 2\Lab 3\bin\Debug\net6.0-windows\Question 2.runtimeconfig.json
+C:\3 Centennial College\4th Semester\Programming 3\301276375(rono)_LAB#3\Question 2\Lab 3\bin\Debug\net6.0-windows\Question 2.dll
+C:\3 Centennial College\4th Semester\Programming 3\301276375(rono)_LAB#3\Question 2\Lab 3\bin\Debug\net6.0-windows\Question 2.pdb
+C:\3 Centennial College\4th Semester\Programming 3\301276375(rono)_LAB#3\Question 2\Lab 3\obj\Debug\net6.0-windows\MainWindow.baml
+C:\3 Centennial College\4th Semester\Programming 3\301276375(rono)_LAB#3\Question 2\Lab 3\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\301276375(rono)_LAB#3\Question 2\Lab 3\obj\Debug\net6.0-windows\App.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\301276375(rono)_LAB#3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2_MarkupCompile.cache
+C:\3 Centennial College\4th Semester\Programming 3\301276375(rono)_LAB#3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2.g.resources
+C:\3 Centennial College\4th Semester\Programming 3\301276375(rono)_LAB#3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 Centennial College\4th Semester\Programming 3\301276375(rono)_LAB#3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2.AssemblyInfoInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\301276375(rono)_LAB#3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2.AssemblyInfo.cs
+C:\3 Centennial College\4th Semester\Programming 3\301276375(rono)_LAB#3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2.csproj.CoreCompileInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\301276375(rono)_LAB#3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2.dll
+C:\3 Centennial College\4th Semester\Programming 3\301276375(rono)_LAB#3\Question 2\Lab 3\obj\Debug\net6.0-windows\refint\Question 2.dll
+C:\3 Centennial College\4th Semester\Programming 3\301276375(rono)_LAB#3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2.pdb
+C:\3 Centennial College\4th Semester\Programming 3\301276375(rono)_LAB#3\Question 2\Lab 3\obj\Debug\net6.0-windows\Question 2.genruntimeconfig.cache
+C:\3 Centennial College\4th Semester\Programming 3\301276375(rono)_LAB#3\Question 2\Lab 3\obj\Debug\net6.0-windows\ref\Question 2.dll

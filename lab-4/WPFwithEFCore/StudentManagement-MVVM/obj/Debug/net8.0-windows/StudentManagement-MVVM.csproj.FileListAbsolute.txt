@@ -1,0 +1,244 @@
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.csproj.AssemblyReference.cache
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM_MarkupCompile.cache
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\StudentManagement-MVVM.exe
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\StudentManagement-MVVM.deps.json
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\StudentManagement-MVVM.runtimeconfig.json
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\StudentManagement-MVVM.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\StudentManagement-MVVM.pdb
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\SMSLibrary.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\SMSLibrary.pdb
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM_MarkupCompile.lref
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.g.resources
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.AssemblyInfoInputs.cache
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.AssemblyInfo.cs
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.csproj.CoreCompileInputs.cache
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.csproj.CopyComplete
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\refint\StudentManagement-MVVM.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.pdb
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.genruntimeconfig.cache
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\ref\StudentManagement-MVVM.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\StudentManagement-MVVM.exe
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\StudentManagement-MVVM.deps.json
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\StudentManagement-MVVM.runtimeconfig.json
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\StudentManagement-MVVM.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\StudentManagement-MVVM.pdb
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\SMSLibrary.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\SMSLibrary.pdb
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.csproj.AssemblyReference.cache
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM_MarkupCompile.cache
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM_MarkupCompile.lref
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.g.resources
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.AssemblyInfoInputs.cache
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.AssemblyInfo.cs
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.csproj.CoreCompileInputs.cache
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.csproj.CopyComplete
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\refint\StudentManagement-MVVM.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.pdb
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.genruntimeconfig.cache
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\ref\StudentManagement-MVVM.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\StudentManagement-MVVM.exe
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\StudentManagement-MVVM.deps.json
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\StudentManagement-MVVM.runtimeconfig.json
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\StudentManagement-MVVM.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\StudentManagement-MVVM.pdb
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\SMSLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\SMSLibrary.pdb
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.csproj.AssemblyReference.cache
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\App.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM_MarkupCompile.cache
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM_MarkupCompile.lref
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\MainWindow.baml
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.g.resources
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.AssemblyInfoInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.AssemblyInfo.cs
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.csproj.CoreCompileInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.csproj.CopyComplete
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\refint\StudentManagement-MVVM.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.pdb
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.genruntimeconfig.cache
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\ref\StudentManagement-MVVM.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\StudentManagement-MVVM.exe
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\StudentManagement-MVVM.deps.json
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\StudentManagement-MVVM.runtimeconfig.json
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\StudentManagement-MVVM.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\StudentManagement-MVVM.pdb
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\SMSLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\bin\Debug\net8.0-windows\SMSLibrary.pdb
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.csproj.AssemblyReference.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\App.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM_MarkupCompile.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM_MarkupCompile.lref
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\MainWindow.baml
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.g.resources
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.AssemblyInfoInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.AssemblyInfo.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.csproj.CoreCompileInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.csproj.CopyComplete
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\refint\StudentManagement-MVVM.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.pdb
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\StudentManagement-MVVM.genruntimeconfig.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\StudentManagement-MVVM\obj\Debug\net8.0-windows\ref\StudentManagement-MVVM.dll

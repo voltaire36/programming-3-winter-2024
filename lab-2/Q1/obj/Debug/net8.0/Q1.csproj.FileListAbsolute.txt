@@ -1,0 +1,14 @@
+C:\3 Centennial College\4th Semester\Programming 3\GUI Practice\Q1\bin\Debug\net8.0\Q1.exe
+C:\3 Centennial College\4th Semester\Programming 3\GUI Practice\Q1\bin\Debug\net8.0\Q1.deps.json
+C:\3 Centennial College\4th Semester\Programming 3\GUI Practice\Q1\bin\Debug\net8.0\Q1.runtimeconfig.json
+C:\3 Centennial College\4th Semester\Programming 3\GUI Practice\Q1\bin\Debug\net8.0\Q1.dll
+C:\3 Centennial College\4th Semester\Programming 3\GUI Practice\Q1\bin\Debug\net8.0\Q1.pdb
+C:\3 Centennial College\4th Semester\Programming 3\GUI Practice\Q1\obj\Debug\net8.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 Centennial College\4th Semester\Programming 3\GUI Practice\Q1\obj\Debug\net8.0\Q1.AssemblyInfoInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\GUI Practice\Q1\obj\Debug\net8.0\Q1.AssemblyInfo.cs
+C:\3 Centennial College\4th Semester\Programming 3\GUI Practice\Q1\obj\Debug\net8.0\Q1.csproj.CoreCompileInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\GUI Practice\Q1\obj\Debug\net8.0\Q1.dll
+C:\3 Centennial College\4th Semester\Programming 3\GUI Practice\Q1\obj\Debug\net8.0\refint\Q1.dll
+C:\3 Centennial College\4th Semester\Programming 3\GUI Practice\Q1\obj\Debug\net8.0\Q1.pdb
+C:\3 Centennial College\4th Semester\Programming 3\GUI Practice\Q1\obj\Debug\net8.0\Q1.genruntimeconfig.cache
+C:\3 Centennial College\4th Semester\Programming 3\GUI Practice\Q1\obj\Debug\net8.0\ref\Q1.dll

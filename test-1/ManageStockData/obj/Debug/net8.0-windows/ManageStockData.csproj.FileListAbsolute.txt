@@ -1,0 +1,64 @@
+C:\Users\hongt\source\repos\Midterm\ManageStockData\bin\Debug\net8.0-windows\ManageStockData.exe
+C:\Users\hongt\source\repos\Midterm\ManageStockData\bin\Debug\net8.0-windows\ManageStockData.deps.json
+C:\Users\hongt\source\repos\Midterm\ManageStockData\bin\Debug\net8.0-windows\ManageStockData.runtimeconfig.json
+C:\Users\hongt\source\repos\Midterm\ManageStockData\bin\Debug\net8.0-windows\ManageStockData.dll
+C:\Users\hongt\source\repos\Midterm\ManageStockData\bin\Debug\net8.0-windows\ManageStockData.pdb
+C:\Users\hongt\source\repos\Midterm\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.Form1.resources
+C:\Users\hongt\source\repos\Midterm\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.csproj.GenerateResource.cache
+C:\Users\hongt\source\repos\Midterm\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hongt\source\repos\Midterm\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.AssemblyInfoInputs.cache
+C:\Users\hongt\source\repos\Midterm\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.AssemblyInfo.cs
+C:\Users\hongt\source\repos\Midterm\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.csproj.CoreCompileInputs.cache
+C:\Users\hongt\source\repos\Midterm\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.dll
+C:\Users\hongt\source\repos\Midterm\ManageStockData\obj\Debug\net8.0-windows\refint\ManageStockData.dll
+C:\Users\hongt\source\repos\Midterm\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.pdb
+C:\Users\hongt\source\repos\Midterm\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.genruntimeconfig.cache
+C:\Users\hongt\source\repos\Midterm\ManageStockData\obj\Debug\net8.0-windows\ref\ManageStockData.dll
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\Midterm\ManageStockData\bin\Debug\net8.0-windows\ManageStockData.exe
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\Midterm\ManageStockData\bin\Debug\net8.0-windows\ManageStockData.deps.json
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\Midterm\ManageStockData\bin\Debug\net8.0-windows\ManageStockData.runtimeconfig.json
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\Midterm\ManageStockData\bin\Debug\net8.0-windows\ManageStockData.dll
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\Midterm\ManageStockData\bin\Debug\net8.0-windows\ManageStockData.pdb
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\Midterm\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.Form1.resources
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\Midterm\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.csproj.GenerateResource.cache
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\Midterm\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\Midterm\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.AssemblyInfoInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\Midterm\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.AssemblyInfo.cs
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\Midterm\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.csproj.CoreCompileInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\Midterm\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.dll
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\Midterm\ManageStockData\obj\Debug\net8.0-windows\refint\ManageStockData.dll
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\Midterm\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.pdb
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\Midterm\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.genruntimeconfig.cache
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\Midterm\ManageStockData\obj\Debug\net8.0-windows\ref\ManageStockData.dll
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\301276375Rono_Test1\ManageStockData\bin\Debug\net8.0-windows\ManageStockData.exe
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\301276375Rono_Test1\ManageStockData\bin\Debug\net8.0-windows\ManageStockData.deps.json
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\301276375Rono_Test1\ManageStockData\bin\Debug\net8.0-windows\ManageStockData.runtimeconfig.json
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\301276375Rono_Test1\ManageStockData\bin\Debug\net8.0-windows\ManageStockData.dll
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\301276375Rono_Test1\ManageStockData\bin\Debug\net8.0-windows\ManageStockData.pdb
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\301276375Rono_Test1\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.Form1.resources
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\301276375Rono_Test1\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.csproj.GenerateResource.cache
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\301276375Rono_Test1\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\301276375Rono_Test1\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.AssemblyInfoInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\301276375Rono_Test1\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.AssemblyInfo.cs
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\301276375Rono_Test1\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.csproj.CoreCompileInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\301276375Rono_Test1\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.dll
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\301276375Rono_Test1\ManageStockData\obj\Debug\net8.0-windows\refint\ManageStockData.dll
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\301276375Rono_Test1\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.pdb
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\301276375Rono_Test1\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.genruntimeconfig.cache
+C:\3 Centennial College\4th Semester\Programming 3\Programming Midterm\Midterm (1)\301276375Rono_Test1\ManageStockData\obj\Debug\net8.0-windows\ref\ManageStockData.dll
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Test1\301276375Rono_Test1\ManageStockData\bin\Debug\net8.0-windows\ManageStockData.exe
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Test1\301276375Rono_Test1\ManageStockData\bin\Debug\net8.0-windows\ManageStockData.deps.json
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Test1\301276375Rono_Test1\ManageStockData\bin\Debug\net8.0-windows\ManageStockData.runtimeconfig.json
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Test1\301276375Rono_Test1\ManageStockData\bin\Debug\net8.0-windows\ManageStockData.dll
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Test1\301276375Rono_Test1\ManageStockData\bin\Debug\net8.0-windows\ManageStockData.pdb
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Test1\301276375Rono_Test1\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.Form1.resources
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Test1\301276375Rono_Test1\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.csproj.GenerateResource.cache
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Test1\301276375Rono_Test1\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Test1\301276375Rono_Test1\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.AssemblyInfoInputs.cache
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Test1\301276375Rono_Test1\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.AssemblyInfo.cs
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Test1\301276375Rono_Test1\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.csproj.CoreCompileInputs.cache
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Test1\301276375Rono_Test1\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.dll
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Test1\301276375Rono_Test1\ManageStockData\obj\Debug\net8.0-windows\refint\ManageStockData.dll
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Test1\301276375Rono_Test1\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.pdb
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Test1\301276375Rono_Test1\ManageStockData\obj\Debug\net8.0-windows\ManageStockData.genruntimeconfig.cache
+C:\3 Centennial College\Portfolio\2 Projects\Programming 3\301276375(rono)_Test1\301276375Rono_Test1\ManageStockData\obj\Debug\net8.0-windows\ref\ManageStockData.dll

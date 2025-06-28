@@ -1,0 +1,382 @@
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.exe
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.deps.json
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.runtimeconfig.json
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.pdb
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\SMSLibrary.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\SMSLibrary.pdb
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.csproj.AssemblyReference.cache
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\UserControls\CourseView.g.cs
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\UserControls\StudentView.g.cs
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab_MarkupCompile.cache
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab_MarkupCompile.lref
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\UserControls\CourseView.baml
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\UserControls\StudentView.baml
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.g.resources
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.AssemblyInfoInputs.cache
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.AssemblyInfo.cs
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.csproj.CoreCompileInputs.cache
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.csproj.CopyComplete
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\refint\DemoTab.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.pdb
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.genruntimeconfig.cache
+C:\Users\hongt\source\repos\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\ref\DemoTab.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.exe
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.deps.json
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.runtimeconfig.json
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.pdb
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\SMSLibrary.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\SMSLibrary.pdb
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.csproj.AssemblyReference.cache
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\UserControls\CourseView.g.cs
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\UserControls\StudentView.g.cs
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab_MarkupCompile.cache
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab_MarkupCompile.lref
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\UserControls\CourseView.baml
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\UserControls\StudentView.baml
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.g.resources
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.AssemblyInfoInputs.cache
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.AssemblyInfo.cs
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.csproj.CoreCompileInputs.cache
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.csproj.CopyComplete
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\refint\DemoTab.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.pdb
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.genruntimeconfig.cache
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\ref\DemoTab.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.exe
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.deps.json
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.runtimeconfig.json
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.pdb
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\SMSLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\SMSLibrary.pdb
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.csproj.AssemblyReference.cache
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\UserControls\CourseView.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\UserControls\StudentView.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\App.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab_MarkupCompile.cache
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab_MarkupCompile.lref
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\MainWindow.baml
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\UserControls\CourseView.baml
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\UserControls\StudentView.baml
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.g.resources
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.AssemblyInfoInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.AssemblyInfo.cs
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.csproj.CoreCompileInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.csproj.CopyComplete
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\refint\DemoTab.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.pdb
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.genruntimeconfig.cache
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\ref\DemoTab.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.exe
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.deps.json
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.runtimeconfig.json
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.pdb
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.csproj.AssemblyReference.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\UserControls\CourseView.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\UserControls\StudentView.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\App.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab_MarkupCompile.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab_MarkupCompile.lref
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\MainWindow.baml
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\UserControls\CourseView.baml
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\UserControls\StudentView.baml
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.g.resources
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.AssemblyInfoInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.AssemblyInfo.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.csproj.CoreCompileInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.csproj.CopyComplete
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\refint\DemoTab.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.pdb
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.genruntimeconfig.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\ref\DemoTab.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.exe
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.deps.json
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.runtimeconfig.json
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.pdb
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.csproj.AssemblyReference.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\App.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab_MarkupCompile.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab_MarkupCompile.lref
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\MainWindow.baml
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.g.resources
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.AssemblyInfoInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.AssemblyInfo.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.csproj.CoreCompileInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.csproj.CopyComplete
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\refint\DemoTab.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.pdb
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.genruntimeconfig.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\ref\DemoTab.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\UserControls\AddItemToOrderView.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\UserControls\OrderDetailsView.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\UserControls\AddItemToOrderView.baml
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - editting\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\UserControls\OrderDetailsView.baml
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.exe
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.dll.config
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.deps.json
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.runtimeconfig.json
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DemoTab.pdb
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Humanizer.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.csproj.AssemblyReference.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\UserControls\AddItemToOrderView.baml
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\UserControls\OrderDetailsView.baml
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\UserControls\AddItemToOrderView.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\UserControls\OrderDetailsView.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\App.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab_MarkupCompile.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab_MarkupCompile.lref
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\MainWindow.baml
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.g.resources
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.AssemblyInfoInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.AssemblyInfo.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.csproj.CoreCompileInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.csproj.CopyComplete
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\refint\DemoTab.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.pdb
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\DemoTab.genruntimeconfig.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\obj\Debug\net8.0-windows\ref\DemoTab.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DataAccessLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY - Finishing\WPFwithEFCore\DemoTab\bin\Debug\net8.0-windows\DataAccessLibrary.pdb

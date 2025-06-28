@@ -1,0 +1,56 @@
+C:\Users\hongt\source\repos\WPFwithEFCore\SMSLibrary\bin\Debug\net8.0\SMSLibrary.deps.json
+C:\Users\hongt\source\repos\WPFwithEFCore\SMSLibrary\bin\Debug\net8.0\SMSLibrary.runtimeconfig.json
+C:\Users\hongt\source\repos\WPFwithEFCore\SMSLibrary\bin\Debug\net8.0\SMSLibrary.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\SMSLibrary\bin\Debug\net8.0\SMSLibrary.pdb
+C:\Users\hongt\source\repos\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.csproj.AssemblyReference.cache
+C:\Users\hongt\source\repos\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hongt\source\repos\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.AssemblyInfoInputs.cache
+C:\Users\hongt\source\repos\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.AssemblyInfo.cs
+C:\Users\hongt\source\repos\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hongt\source\repos\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\refint\SMSLibrary.dll
+C:\Users\hongt\source\repos\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.pdb
+C:\Users\hongt\source\repos\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.genruntimeconfig.cache
+C:\Users\hongt\source\repos\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\ref\SMSLibrary.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\SMSLibrary\bin\Debug\net8.0\SMSLibrary.deps.json
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\SMSLibrary\bin\Debug\net8.0\SMSLibrary.runtimeconfig.json
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\SMSLibrary\bin\Debug\net8.0\SMSLibrary.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\SMSLibrary\bin\Debug\net8.0\SMSLibrary.pdb
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.csproj.AssemblyReference.cache
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.AssemblyInfoInputs.cache
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.AssemblyInfo.cs
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.csproj.CoreCompileInputs.cache
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\refint\SMSLibrary.dll
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.pdb
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.genruntimeconfig.cache
+C:\Users\volta\Downloads\WPFwithEFCore\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\ref\SMSLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\SMSLibrary\bin\Debug\net8.0\SMSLibrary.deps.json
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\SMSLibrary\bin\Debug\net8.0\SMSLibrary.runtimeconfig.json
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\SMSLibrary\bin\Debug\net8.0\SMSLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\SMSLibrary\bin\Debug\net8.0\SMSLibrary.pdb
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.csproj.AssemblyReference.cache
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.AssemblyInfoInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.AssemblyInfo.cs
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.csproj.CoreCompileInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\refint\SMSLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.pdb
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.genruntimeconfig.cache
+C:\3 Centennial College\4th Semester\Programming 3\WPFwithEFCore\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\ref\SMSLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\SMSLibrary\bin\Debug\net8.0\SMSLibrary.deps.json
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\SMSLibrary\bin\Debug\net8.0\SMSLibrary.runtimeconfig.json
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\SMSLibrary\bin\Debug\net8.0\SMSLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\SMSLibrary\bin\Debug\net8.0\SMSLibrary.pdb
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.csproj.AssemblyReference.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.AssemblyInfoInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.AssemblyInfo.cs
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.csproj.CoreCompileInputs.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\refint\SMSLibrary.dll
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.pdb
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\SMSLibrary.genruntimeconfig.cache
+C:\3 Centennial College\4th Semester\Programming 3\LAB 4 LETS TRY\WPFwithEFCore\SMSLibrary\obj\Debug\net8.0\ref\SMSLibrary.dll
